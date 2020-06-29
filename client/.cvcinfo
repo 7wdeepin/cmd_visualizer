@@ -1,0 +1,8 @@
+# Address IP of server to connect to
+address_ip = 127.0.0.1     
+# Address port of server to connect to
+address_port = 5555 
+# Encoding level of JPEG, value between 0 - 100     
+jpeg_encoding_level = 95
+# Frame width
+frame_width = 720
